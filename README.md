@@ -8,7 +8,8 @@ Brief [plan](https://gist.github.com/MarcDiethelm/7303312) of collaboration
 First of all you need to fork our joint repository.
 To do this go to [repository](https://github.com/RageAgainstTheMachine101/Tolya_will_be_shoked) and press button `Fork` at the top right corner. It will clone repo to your github account.
 Next you should add forked repository to your local machine. Press button `Clone or download` at forked repository page in **your** account. Copy url and paste it into terminal command:
-*Note: I\`ll use {} to indicate placeholder for substitution*
+
+*Note: {} are used to indicate placeholder for substitution*
 
 ```git clone {copied link}```
 
@@ -76,3 +77,7 @@ To type co instead of checkout and other substitutions look for git aliases [her
 	- pandas
 	- scikit
 - [Vova\`s book](https://vk.com/doc13636965_459772617?hash=683c06bfa8bc1166cd&dl=6695c0ae54e2278514)
+
+
+## Authors
+Will be added later
