@@ -9,7 +9,7 @@ First of all you need to fork our joint repository.
 To do this go to [repository](https://github.com/RageAgainstTheMachine101/Tolya_will_be_shoked) and press button `Fork` at the top right corner. It will clone repo to your github account.
 Next you should add forked repository to your local machine. Press button `Clone or download` at forked repository page in **your** account. Copy url and paste it into terminal command:
 
-*Note: {} are used to indicate placeholder for substitution*
+*Note:  {} are used to indicate placeholder for substitution*
 
 ```git clone {copied link}```
 
