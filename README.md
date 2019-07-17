@@ -76,8 +76,6 @@ To type co instead of checkout and other substitutions look for git aliases [her
 	- numpy
 	- pandas
 	- scikit
-- [Vova\`s book](https://vk.com/doc13636965_459772617?hash=683c06bfa8bc1166cd&dl=6695c0ae54e2278514)
-
 
 ## Authors
 Will be added later
